@@ -1,0 +1,9 @@
+{
+  "@context": [
+  "https://linkedsoftwaredependencies.org/bundles/npm/componentsjs/^4.0.0/components/context.jsonld",
+  "https://linkedsoftwaredependencies.org/bundles/npm/httpgetstore/1.0.0/components/context.jsonld"
+  ],
+  "@id": "urn:httpgetstore:myInstance",
+  "@type": "HttpGetStore",
+  "h:dist/HttpGetStore#HttpGetStore_options_url": ["https://calendar.google.com/calendar/ical/sindhu.vasireddy.idlab%40gmail.com/private-68d46b279839aea507a9f9d8c5ed2735/basic.ics","https://github.com/KNowledgeOnWebScale/solid-calendar-store/issues/23"]
+}
